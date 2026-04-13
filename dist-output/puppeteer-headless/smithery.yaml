@@ -1,0 +1,10 @@
+name: puppeteer-headless
+description: Headless Chrome automation with Puppeteer for web scraping, PDF generation, and automated browser interactions.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/puppeteer-headless'
+categories:
+  - Web & Browser

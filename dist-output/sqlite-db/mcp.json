@@ -1,0 +1,23 @@
+{
+  "name": "@csgaglobal/sqlite-db",
+  "description": "SQLite database operations with query execution, schema management, data import/export, and database analysis.",
+  "version": "1.0.0",
+  "vendor": "CSGA Global",
+  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "license": "CC0-1.0",
+  "runtime": "node",
+  "installation": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@csgaglobal/sqlite-db"
+    ]
+  },
+  "keywords": [
+    "mcp",
+    "sqlite",
+    "database",
+    "sql",
+    "embedded"
+  ]
+}

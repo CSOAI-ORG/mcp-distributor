@@ -1,0 +1,10 @@
+name: git-operations
+description: Git repository management with branch operations, commit analysis, merge conflict resolution, and workflow automation.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/git-operations'
+categories:
+  - Developer Tools

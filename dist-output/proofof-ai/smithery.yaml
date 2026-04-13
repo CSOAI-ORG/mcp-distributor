@@ -1,0 +1,13 @@
+name: proofof-ai
+description: >-
+  Proof-of-AI verification and attestation framework for validating AI system provenance, model lineage, and governance
+  compliance certification.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/proofof-ai'
+categories:
+  - Compliance
+  - AI Governance

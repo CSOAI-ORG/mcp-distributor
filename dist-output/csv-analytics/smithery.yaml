@@ -1,0 +1,10 @@
+name: csv-analytics
+description: CSV data analysis with statistical computing, pattern detection, data transformation, and visualization generation.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/csv-analytics'
+categories:
+  - Data & Storage

@@ -1,0 +1,23 @@
+{
+  "name": "@csgaglobal/memory-graph",
+  "description": "Knowledge graph memory system for persistent context, entity relationships, and intelligent information retrieval.",
+  "version": "1.0.0",
+  "vendor": "CSGA Global",
+  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "license": "CC0-1.0",
+  "runtime": "node",
+  "installation": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@csgaglobal/memory-graph"
+    ]
+  },
+  "keywords": [
+    "mcp",
+    "memory",
+    "knowledge-graph",
+    "context",
+    "persistence"
+  ]
+}

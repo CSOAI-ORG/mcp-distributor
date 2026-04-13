@@ -1,0 +1,10 @@
+name: google-drive
+description: Google Drive integration for file management, search, sharing, and collaborative document workflows.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/google-drive'
+categories:
+  - Productivity

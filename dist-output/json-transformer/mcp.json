@@ -1,0 +1,23 @@
+{
+  "name": "@csgaglobal/json-transformer",
+  "description": "JSON data transformation with schema validation, format conversion, path querying, and structural mapping.",
+  "version": "1.0.0",
+  "vendor": "CSGA Global",
+  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "license": "CC0-1.0",
+  "runtime": "node",
+  "installation": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@csgaglobal/json-transformer"
+    ]
+  },
+  "keywords": [
+    "mcp",
+    "json",
+    "transformer",
+    "data",
+    "schema"
+  ]
+}

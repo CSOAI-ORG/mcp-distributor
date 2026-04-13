@@ -1,0 +1,13 @@
+name: autonomous-vehicles
+description: >-
+  AI governance for autonomous vehicle technology including safety validation, sensor fusion oversight, and regulatory
+  compliance for self-driving systems.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/autonomous-vehicles'
+categories:
+  - Automotive
+  - AI Governance

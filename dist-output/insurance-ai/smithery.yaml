@@ -1,0 +1,13 @@
+name: insurance-ai
+description: >-
+  AI governance for insurance technology including underwriting AI fairness, claims automation oversight, and actuarial
+  model compliance.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/insurance-ai'
+categories:
+  - Insurance
+  - AI Governance

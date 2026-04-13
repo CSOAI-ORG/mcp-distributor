@@ -1,0 +1,10 @@
+name: smart-cities-ai
+description: AI governance for smart city infrastructure including traffic management, public safety, and urban planning systems.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/smart-cities-ai'
+categories:
+  - Smart Cities & IoT

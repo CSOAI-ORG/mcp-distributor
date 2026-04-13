@@ -1,0 +1,13 @@
+name: mining-ai
+description: >-
+  AI governance for mining technology including autonomous mining equipment oversight, geological AI prediction, and
+  environmental compliance.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/mining-ai'
+categories:
+  - Mining
+  - AI Governance

@@ -1,0 +1,50 @@
+{
+  "name": "@csgaglobal/mcp-distributor",
+  "version": "1.0.0",
+  "description": "Publish MCP servers to 7+ registries simultaneously: npm, Smithery, Glama, MCP.so, PulseMCP, mcp-get, OpenTools.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "mcp-distribute": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "distribute": "node dist/cli.js",
+    "distribute:all": "node dist/cli.js --all"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "js-yaml": "^4.1.0",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.3"
+  },
+  "author": "CSGA Global",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csga-global/mcp-servers",
+    "directory": "packages/mcp-distributor"
+  },
+  "keywords": [
+    "mcp",
+    "distribution",
+    "registry",
+    "smithery",
+    "glama",
+    "publishing"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+name: mcp-distributor
+description: 'Publish MCP servers to 7+ registries simultaneously: npm, Smithery, Glama, MCP.so, PulseMCP, mcp-get, OpenTools.'
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: MIT
+runtime: node
+command:
+  npx: '@csgaglobal/mcp-distributor'
+categories:
+  - Tools & Utilities

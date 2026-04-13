@@ -1,0 +1,13 @@
+name: media-ads-ai
+description: >-
+  AI governance for media and advertising technology including content recommendation oversight, ad targeting
+  compliance, and misinformation detection.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/media-ads-ai'
+categories:
+  - Media & Advertising
+  - AI Governance

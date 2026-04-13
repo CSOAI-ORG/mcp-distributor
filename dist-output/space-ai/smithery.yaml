@@ -1,0 +1,12 @@
+name: space-ai
+description: >-
+  AI governance for space technology including satellite operations, mission planning, and space debris management
+  systems.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/space-ai'
+categories:
+  - Aerospace & Space

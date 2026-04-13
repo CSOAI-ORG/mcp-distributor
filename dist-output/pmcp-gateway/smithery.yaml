@@ -1,0 +1,10 @@
+name: pmcp-gateway
+description: MCP Protocol Gateway for routing, load balancing, and managing multiple MCP server connections.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/pmcp-gateway'
+categories:
+  - Tools & Utilities

@@ -1,0 +1,10 @@
+name: playwright-browser
+description: Browser automation with Playwright for web testing, scraping, screenshot capture, and end-to-end workflow automation.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/playwright-browser'
+categories:
+  - Web & Browser

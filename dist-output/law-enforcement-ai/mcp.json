@@ -1,0 +1,23 @@
+{
+  "name": "@csgaglobal/law-enforcement-ai",
+  "description": "AI governance for law enforcement technology including predictive policing oversight, surveillance AI compliance, and criminal justice algorithm auditing.",
+  "version": "1.0.0",
+  "vendor": "CSGA Global",
+  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "license": "CC0-1.0",
+  "runtime": "node",
+  "installation": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@csgaglobal/law-enforcement-ai"
+    ]
+  },
+  "keywords": [
+    "mcp",
+    "law-enforcement",
+    "ai-governance",
+    "predictive-policing",
+    "criminal-justice"
+  ]
+}

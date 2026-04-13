@@ -1,0 +1,10 @@
+name: thn-global
+description: THN Global humanitarian AI governance for disaster response, refugee management, and international aid optimization.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/thn-global'
+categories:
+  - Tools & Utilities

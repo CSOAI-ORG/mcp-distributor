@@ -1,0 +1,13 @@
+name: policy-engine
+description: >-
+  Policy-as-code engine for defining, evaluating, and enforcing organizational policies across AI systems and
+  infrastructure.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/policy-engine'
+categories:
+  - Governance
+  - Compliance

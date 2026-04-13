@@ -1,0 +1,12 @@
+name: dsrb-defence
+description: >-
+  Defence Standards Review Board compliance toolkit for military AI systems with STANAG alignment and NATO
+  interoperability.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/dsrb-defence'
+categories:
+  - Defence & Military

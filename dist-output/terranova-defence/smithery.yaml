@@ -1,0 +1,12 @@
+name: terranova-defence
+description: >-
+  Terranova Defence AI governance framework for military autonomous systems, weapons oversight, and coalition
+  interoperability.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/terranova-defence'
+categories:
+  - Defence & Military

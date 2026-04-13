@@ -1,0 +1,12 @@
+name: real-estate-ai
+description: >-
+  AI governance for real estate technology including property valuation, fair housing compliance, and automated
+  underwriting oversight.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/real-estate-ai'
+categories:
+  - Real Estate

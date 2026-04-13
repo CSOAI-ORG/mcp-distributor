@@ -1,0 +1,10 @@
+name: linear-issues
+description: Linear issue tracker integration for project management, sprint planning, and development workflow automation.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/linear-issues'
+categories:
+  - Productivity

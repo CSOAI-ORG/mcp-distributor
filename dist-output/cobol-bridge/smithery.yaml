@@ -1,0 +1,13 @@
+name: cobol-bridge
+description: >-
+  Bridge between legacy COBOL systems and modern AI governance frameworks, enabling compliance monitoring for
+  mainframe-based financial and government systems.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/cobol-bridge'
+categories:
+  - Legacy Systems
+  - Infrastructure

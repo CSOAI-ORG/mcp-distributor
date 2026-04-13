@@ -1,0 +1,10 @@
+name: sqlite-db
+description: SQLite database operations with query execution, schema management, data import/export, and database analysis.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/sqlite-db'
+categories:
+  - Data & Storage

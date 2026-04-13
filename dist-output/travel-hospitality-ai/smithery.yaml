@@ -1,0 +1,12 @@
+name: travel-hospitality-ai
+description: >-
+  AI governance for travel and hospitality including booking systems, dynamic pricing, and customer experience
+  personalization.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/travel-hospitality-ai'
+categories:
+  - Travel & Hospitality

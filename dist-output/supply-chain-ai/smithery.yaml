@@ -1,0 +1,12 @@
+name: supply-chain-ai
+description: >-
+  AI governance for supply chain management including demand forecasting, logistics optimization, and supplier risk
+  assessment.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/supply-chain-ai'
+categories:
+  - Supply Chain & Logistics

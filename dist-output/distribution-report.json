@@ -1,0 +1,1244 @@
+{
+  "timestamp": "2026-02-28T11:28:01.803Z",
+  "totalPackages": 68,
+  "registrySummary": {
+    "smithery": {
+      "success": 68,
+      "failed": 0,
+      "skipped": 0,
+      "manual": 0
+    },
+    "mcp-get": {
+      "success": 68,
+      "failed": 0,
+      "skipped": 0,
+      "manual": 0
+    }
+  },
+  "packages": [
+    {
+      "package": "@csgaglobal/agriculture-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/agriculture-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/agriculture-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.579Z"
+    },
+    {
+      "package": "@csgaglobal/ai-economy-infra",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/ai-economy-infra/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/ai-economy-infra/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.581Z"
+    },
+    {
+      "package": "@csgaglobal/ai-governance",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/ai-governance/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/ai-governance/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.583Z"
+    },
+    {
+      "package": "@csgaglobal/autonomous-vehicles",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/autonomous-vehicles/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/autonomous-vehicles/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.584Z"
+    },
+    {
+      "package": "@csgaglobal/aws-cloud",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/aws-cloud/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/aws-cloud/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.586Z"
+    },
+    {
+      "package": "@csgaglobal/biometrics-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/biometrics-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/biometrics-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.587Z"
+    },
+    {
+      "package": "@csgaglobal/brave-search",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/brave-search/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/brave-search/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.589Z"
+    },
+    {
+      "package": "@csgaglobal/cloud-security",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/cloud-security/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/cloud-security/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.590Z"
+    },
+    {
+      "package": "@csgaglobal/cobol-bridge",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/cobol-bridge/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/cobol-bridge/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.592Z"
+    },
+    {
+      "package": "@csgaglobal/compliance-audit",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/compliance-audit/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/compliance-audit/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.593Z"
+    },
+    {
+      "package": "@csgaglobal/construction-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/construction-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/construction-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.595Z"
+    },
+    {
+      "package": "@csgaglobal/context7-docs",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/context7-docs/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/context7-docs/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.596Z"
+    },
+    {
+      "package": "@csgaglobal/csv-analytics",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/csv-analytics/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/csv-analytics/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.597Z"
+    },
+    {
+      "package": "@csgaglobal/data-classification",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/data-classification/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/data-classification/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.598Z"
+    },
+    {
+      "package": "@csgaglobal/digital-human-library",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/digital-human-library/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/digital-human-library/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.600Z"
+    },
+    {
+      "package": "@csgaglobal/docker-compose",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/docker-compose/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/docker-compose/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.601Z"
+    },
+    {
+      "package": "@csgaglobal/dsrb-defence",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/dsrb-defence/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/dsrb-defence/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.602Z"
+    },
+    {
+      "package": "@csgaglobal/employment-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/employment-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/employment-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.604Z"
+    },
+    {
+      "package": "@csgaglobal/energy-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/energy-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/energy-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.605Z"
+    },
+    {
+      "package": "@csgaglobal/fetch-http",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/fetch-http/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/fetch-http/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.606Z"
+    },
+    {
+      "package": "@csgaglobal/filesystem-ops",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/filesystem-ops/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/filesystem-ops/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.607Z"
+    },
+    {
+      "package": "@csgaglobal/financial-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/financial-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/financial-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.609Z"
+    },
+    {
+      "package": "@csgaglobal/gaming-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/gaming-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/gaming-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.610Z"
+    },
+    {
+      "package": "@csgaglobal/git-operations",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/git-operations/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/git-operations/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.611Z"
+    },
+    {
+      "package": "@csgaglobal/github-api",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/github-api/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/github-api/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.612Z"
+    },
+    {
+      "package": "@csgaglobal/gitlab-api",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/gitlab-api/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/gitlab-api/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.612Z"
+    },
+    {
+      "package": "@csgaglobal/google-drive",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/google-drive/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/google-drive/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.613Z"
+    },
+    {
+      "package": "@csgaglobal/healthcare-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/healthcare-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/healthcare-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.615Z"
+    },
+    {
+      "package": "@csgaglobal/incident-response",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/incident-response/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/incident-response/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.616Z"
+    },
+    {
+      "package": "@csgaglobal/insurance-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/insurance-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/insurance-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.617Z"
+    },
+    {
+      "package": "@csgaglobal/json-transformer",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/json-transformer/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/json-transformer/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.618Z"
+    },
+    {
+      "package": "@csgaglobal/law-enforcement-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/law-enforcement-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/law-enforcement-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.620Z"
+    },
+    {
+      "package": "@csgaglobal/legal-tech-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/legal-tech-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/legal-tech-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.621Z"
+    },
+    {
+      "package": "@csgaglobal/linear-issues",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/linear-issues/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/linear-issues/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.622Z"
+    },
+    {
+      "package": "@csgaglobal/maritime-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/maritime-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/maritime-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.623Z"
+    },
+    {
+      "package": "@csgaglobal/mcp-distributor",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/mcp-distributor/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/mcp-distributor/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.624Z"
+    },
+    {
+      "package": "@csgaglobal/media-ads-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/media-ads-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/media-ads-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.625Z"
+    },
+    {
+      "package": "@csgaglobal/memory-graph",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/memory-graph/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/memory-graph/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.626Z"
+    },
+    {
+      "package": "@csgaglobal/mining-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/mining-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/mining-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.627Z"
+    },
+    {
+      "package": "@csgaglobal/notion-workspace",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/notion-workspace/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/notion-workspace/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.628Z"
+    },
+    {
+      "package": "@csgaglobal/oneos-education",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/oneos-education/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/oneos-education/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.636Z"
+    },
+    {
+      "package": "@csgaglobal/playwright-browser",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/playwright-browser/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/playwright-browser/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.637Z"
+    },
+    {
+      "package": "@csgaglobal/pmcp-gateway",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/pmcp-gateway/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/pmcp-gateway/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.638Z"
+    },
+    {
+      "package": "@csgaglobal/policy-engine",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/policy-engine/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/policy-engine/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.639Z"
+    },
+    {
+      "package": "@csgaglobal/postgres-db",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/postgres-db/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/postgres-db/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.640Z"
+    },
+    {
+      "package": "@csgaglobal/proofof-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/proofof-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/proofof-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.641Z"
+    },
+    {
+      "package": "@csgaglobal/puppeteer-headless",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/puppeteer-headless/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/puppeteer-headless/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.642Z"
+    },
+    {
+      "package": "@csgaglobal/quantranet-pqc",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/quantranet-pqc/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/quantranet-pqc/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.643Z"
+    },
+    {
+      "package": "@csgaglobal/real-estate-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/real-estate-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/real-estate-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.644Z"
+    },
+    {
+      "package": "@csgaglobal/red-team-ops",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/red-team-ops/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/red-team-ops/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.645Z"
+    },
+    {
+      "package": "@csgaglobal/retail-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/retail-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/retail-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.646Z"
+    },
+    {
+      "package": "@csgaglobal/secure-comms",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/secure-comms/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/secure-comms/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.646Z"
+    },
+    {
+      "package": "@csgaglobal/sentry-monitoring",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sentry-monitoring/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sentry-monitoring/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.647Z"
+    },
+    {
+      "package": "@csgaglobal/sequential-thinking",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sequential-thinking/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sequential-thinking/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.648Z"
+    },
+    {
+      "package": "@csgaglobal/slack-messaging",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/slack-messaging/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/slack-messaging/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.649Z"
+    },
+    {
+      "package": "@csgaglobal/smart-cities-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/smart-cities-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/smart-cities-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.663Z"
+    },
+    {
+      "package": "@csgaglobal/space-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/space-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/space-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.665Z"
+    },
+    {
+      "package": "@csgaglobal/sports-analytics-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sports-analytics-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sports-analytics-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.674Z"
+    },
+    {
+      "package": "@csgaglobal/sqlite-db",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sqlite-db/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/sqlite-db/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.702Z"
+    },
+    {
+      "package": "@csgaglobal/supply-chain-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/supply-chain-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/supply-chain-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.716Z"
+    },
+    {
+      "package": "@csgaglobal/telecom-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/telecom-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/telecom-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.730Z"
+    },
+    {
+      "package": "@csgaglobal/terranova-defence",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/terranova-defence/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/terranova-defence/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.751Z"
+    },
+    {
+      "package": "@csgaglobal/thn-global",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/thn-global/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/thn-global/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.756Z"
+    },
+    {
+      "package": "@csgaglobal/threat-intelligence",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/threat-intelligence/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/threat-intelligence/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.764Z"
+    },
+    {
+      "package": "@csgaglobal/time-zones",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/time-zones/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/time-zones/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.777Z"
+    },
+    {
+      "package": "@csgaglobal/travel-hospitality-ai",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/travel-hospitality-ai/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/travel-hospitality-ai/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.782Z"
+    },
+    {
+      "package": "@csgaglobal/vercel-deploy",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/vercel-deploy/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/vercel-deploy/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.785Z"
+    },
+    {
+      "package": "@csgaglobal/vulnerability-scanner",
+      "results": [
+        {
+          "registry": "smithery",
+          "status": "success",
+          "message": "Generated smithery.yaml — add to repo root and submit at smithery.ai",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/vulnerability-scanner/smithery.yaml"
+        },
+        {
+          "registry": "mcp-get",
+          "status": "success",
+          "message": "Generated mcp.json — submit PR to mcp-get/packages repo",
+          "artifact": "/sessions/beautiful-ecstatic-darwin/mnt/nicholas/CSOAI-CORP/mcp-packages/mcp-distributor/dist-output/vulnerability-scanner/mcp.json"
+        }
+      ],
+      "timestamp": "2026-02-28T11:28:01.798Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@csgaglobal/real-estate-ai",
+  "description": "AI governance for real estate technology including property valuation, fair housing compliance, and automated underwriting oversight.",
+  "version": "1.0.0",
+  "vendor": "CSGA Global",
+  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "license": "CC0-1.0",
+  "runtime": "node",
+  "installation": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@csgaglobal/real-estate-ai"
+    ]
+  },
+  "keywords": [
+    "mcp",
+    "real-estate",
+    "ai-governance",
+    "fair-housing",
+    "proptech"
+  ]
+}

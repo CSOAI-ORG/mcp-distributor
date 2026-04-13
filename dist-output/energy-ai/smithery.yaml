@@ -1,0 +1,13 @@
+name: energy-ai
+description: >-
+  AI governance for energy sector technology including grid optimization, renewable energy forecasting, and energy
+  trading AI oversight.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/energy-ai'
+categories:
+  - Energy
+  - AI Governance

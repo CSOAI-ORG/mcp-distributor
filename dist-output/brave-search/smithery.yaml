@@ -1,0 +1,10 @@
+name: brave-search
+description: Privacy-focused web search with Brave Search API integration for real-time information retrieval and analysis.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/brave-search'
+categories:
+  - Tools & Utilities

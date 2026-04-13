@@ -1,0 +1,13 @@
+name: financial-ai
+description: >-
+  AI governance for financial services including algorithmic trading oversight, credit scoring fairness, and anti-money
+  laundering AI compliance.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/financial-ai'
+categories:
+  - Financial Services
+  - AI Governance

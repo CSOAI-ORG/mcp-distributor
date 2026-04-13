@@ -1,0 +1,10 @@
+name: memory-graph
+description: Knowledge graph memory system for persistent context, entity relationships, and intelligent information retrieval.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/memory-graph'
+categories:
+  - Tools & Utilities

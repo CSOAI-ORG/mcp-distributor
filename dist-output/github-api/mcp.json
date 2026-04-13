@@ -1,0 +1,23 @@
+{
+  "name": "@csgaglobal/github-api",
+  "description": "GitHub API integration for repository management, issue tracking, PR workflows, and CI/CD pipeline monitoring.",
+  "version": "1.0.0",
+  "vendor": "CSGA Global",
+  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "license": "CC0-1.0",
+  "runtime": "node",
+  "installation": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@csgaglobal/github-api"
+    ]
+  },
+  "keywords": [
+    "mcp",
+    "github",
+    "api",
+    "repository",
+    "ci-cd"
+  ]
+}

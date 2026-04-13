@@ -1,0 +1,10 @@
+name: notion-workspace
+description: Notion workspace integration for page management, database operations, and collaborative content workflows.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/notion-workspace'
+categories:
+  - Productivity

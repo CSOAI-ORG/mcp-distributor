@@ -1,0 +1,10 @@
+name: data-classification
+description: Automated data classification and labeling with sensitivity detection, PII scanning, and data governance tagging.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/data-classification'
+categories:
+  - Governance

@@ -1,0 +1,13 @@
+name: oneos-education
+description: >-
+  AI governance for educational technology on the OneOS platform including adaptive learning oversight, student data
+  protection, and educational AI fairness.
+version: 1.0.0
+repository: https://github.com/csga-global/mcp-servers
+license: CC0-1.0
+runtime: node
+command:
+  npx: '@csgaglobal/oneos-education'
+categories:
+  - Education
+  - AI Governance
