@@ -1,7 +1,7 @@
 name: sentry-monitoring
 description: Sentry error monitoring integration for issue tracking, performance monitoring, and release management.
 version: 1.0.0
-repository: https://github.com/csga-global/mcp-servers
+repository: https://github.com/meok-ai/mcp-servers
 license: CC0-1.0
 runtime: node
 command:

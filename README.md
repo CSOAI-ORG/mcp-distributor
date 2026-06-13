@@ -1,11 +1,11 @@
-# @csgaglobal/mcp-distributor
+# @meok-ai-labs/mcp-distributor
 
 Publish MCP servers to 7+ registries simultaneously: **npm**, **Smithery**, **Glama**, **MCP.so**, **PulseMCP**, **mcp-get**, **OpenTools**.
 
 ## Install
 
 ```bash
-npm install -g @csgaglobal/mcp-distributor
+npm install -g @meok-ai-labs/mcp-distributor
 ```
 
 ## Usage

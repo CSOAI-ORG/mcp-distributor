@@ -1,7 +1,7 @@
 name: github-api
 description: GitHub API integration for repository management, issue tracking, PR workflows, and CI/CD pipeline monitoring.
 version: 1.0.0
-repository: https://github.com/csga-global/mcp-servers
+repository: https://github.com/meok-ai/mcp-servers
 license: CC0-1.0
 runtime: node
 command:

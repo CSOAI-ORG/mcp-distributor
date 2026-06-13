@@ -3,7 +3,7 @@
   "description": "Publish MCP servers to 7+ registries simultaneously: npm, Smithery, Glama, MCP.so, PulseMCP, mcp-get, OpenTools.",
   "version": "1.0.0",
   "vendor": "CSGA Global",
-  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "sourceUrl": "https://github.com/meok-ai/mcp-servers",
   "license": "MIT",
   "runtime": "node",
   "installation": {

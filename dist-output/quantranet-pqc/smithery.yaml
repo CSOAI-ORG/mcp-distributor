@@ -3,7 +3,7 @@ description: >-
   Post-quantum cryptography toolkit for quantum-safe encryption, key exchange, and digital signatures using
   NIST-approved algorithms.
 version: 1.0.0
-repository: https://github.com/csga-global/mcp-servers
+repository: https://github.com/meok-ai/mcp-servers
 license: CC0-1.0
 runtime: node
 command:

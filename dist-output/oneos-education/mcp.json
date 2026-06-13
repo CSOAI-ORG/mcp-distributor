@@ -3,7 +3,7 @@
   "description": "AI governance for educational technology on the OneOS platform including adaptive learning oversight, student data protection, and educational AI fairness.",
   "version": "1.0.0",
   "vendor": "CSGA Global",
-  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "sourceUrl": "https://github.com/meok-ai/mcp-servers",
   "license": "CC0-1.0",
   "runtime": "node",
   "installation": {

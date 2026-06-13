@@ -1,18 +1,18 @@
-# Glama.ai Submission — @csgaglobal/ai-governance
+# Glama.ai Submission — @meok-ai-labs/ai-governance
 
 ## Package Details
-- **Name**: @csgaglobal/ai-governance
+- **Name**: @meok-ai-labs/ai-governance
 - **Version**: 1.0.0
 - **Description**: ISO 42001 compliance automation for AI systems with policy enforcement, audit trails, and risk management.
-- **Author**: CSGA Global
+- **Author**: MEOK Labs
 - **License**: CC0-1.0
-- **Repository**: https://github.com/csga-global/mcp-servers
-- **npm**: https://www.npmjs.com/package/@csgaglobal/ai-governance
+- **Repository**: https://github.com/meok-ai/mcp-servers
+- **npm**: https://www.npmjs.com/package/@meok-ai-labs/ai-governance
 - **Keywords**: mcp, ai-governance, compliance, iso-42001, risk-management
 
 ## Installation
 ```bash
-npx -y @csgaglobal/ai-governance
+npx -y @meok-ai-labs/ai-governance
 ```
 
 ## Claude Desktop Configuration
@@ -21,7 +21,7 @@ npx -y @csgaglobal/ai-governance
   "mcpServers": {
     "ai-governance": {
       "command": "npx",
-      "args": ["-y", "@csgaglobal/ai-governance"]
+      "args": ["-y", "@meok-ai-labs/ai-governance"]
     }
   }
 }

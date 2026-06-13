@@ -3,7 +3,7 @@
   "description": "Policy-as-code engine for defining, evaluating, and enforcing organizational policies across AI systems and infrastructure.",
   "version": "1.0.0",
   "vendor": "CSGA Global",
-  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "sourceUrl": "https://github.com/meok-ai/mcp-servers",
   "license": "CC0-1.0",
   "runtime": "node",
   "installation": {

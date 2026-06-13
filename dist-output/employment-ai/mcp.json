@@ -3,7 +3,7 @@
   "description": "AI governance for employment and HR technology including hiring algorithm auditing, workplace surveillance oversight, and employment discrimination prevention.",
   "version": "1.0.0",
   "vendor": "CSGA Global",
-  "sourceUrl": "https://github.com/csga-global/mcp-servers",
+  "sourceUrl": "https://github.com/meok-ai/mcp-servers",
   "license": "CC0-1.0",
   "runtime": "node",
   "installation": {

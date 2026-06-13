@@ -1,7 +1,7 @@
 name: fetch-http
 description: HTTP request management with API testing, response analysis, and automated endpoint monitoring.
 version: 1.0.0
-repository: https://github.com/csga-global/mcp-servers
+repository: https://github.com/meok-ai/mcp-servers
 license: CC0-1.0
 runtime: node
 command:

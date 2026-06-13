@@ -1,7 +1,7 @@
 name: postgres-db
 description: PostgreSQL database management with query execution, schema management, performance monitoring, and backup operations.
 version: 1.0.0
-repository: https://github.com/csga-global/mcp-servers
+repository: https://github.com/meok-ai/mcp-servers
 license: CC0-1.0
 runtime: node
 command:
