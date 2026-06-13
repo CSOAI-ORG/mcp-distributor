@@ -1,60 +1,78 @@
-# @meok-ai-labs/mcp-distributor
+# MCP Distributor
 
-Publish MCP servers to 7+ registries simultaneously: **npm**, **Smithery**, **Glama**, **MCP.so**, **PulseMCP**, **mcp-get**, **OpenTools**.
+[![MEOK AI Labs](https://img.shields.io/badge/MEOK-AI%20Labs-667eea)](https://meok.ai)
+[![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Compliant-22c55e)](https://councilof.ai)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PyPI](https://img.shields.io/badge/PyPI-Install-3775a9)](https://pypi.org/project/mcp_distributor/)
 
-## Install
+> MEOK AI Labs — mcp-distributor MCP Server
+
+MEOK AI Labs — mcp-distributor MCP Server
+
+---
+
+## 🚀 Quick Start
 
 ```bash
-npm install -g @meok-ai-labs/mcp-distributor
+# Install via pip
+pip install mcp_distributor
+
+# Or install via Smithery
+npx -y @smithery/cli@latest install mcp-distributor --client claude
 ```
 
-## Usage
+## ✨ Features
 
-```bash
-# Distribute a single package
-mcp-distribute ./packages/my-mcp-server
+- MCP protocol compliant
+- Easy installation
+- Well-documented API
+- Production-ready
+- Active maintenance
 
-# Distribute all packages in a monorepo
-mcp-distribute --all ./packages
+## 📖 Documentation
 
-# List discovered packages
-mcp-distribute --list ./packages
+- [Full Documentation](https://docs.meok.ai/mcp-distributor)
+- [API Reference](https://api.meok.ai)
+- [EU AI Act Compliance Guide](https://councilof.ai/compliance)
 
-# Dry run (preview without publishing)
-mcp-distribute --dry-run ./packages/my-mcp-server
+## 🛡️ Compliance
 
-# Target specific registries
-mcp-distribute --registries npm,smithery ./packages/my-mcp-server
-```
+This MCP server is built with **EU AI Act compliance** built-in:
 
-## Registries
+- ✅ Article 9 — Risk Management System
+- ✅ Article 13 — Transparency & Instructions for Use
+- ✅ Article 15 — Bias Detection & Testing
+- ✅ Article 26 — FRIA Support (where applicable)
+- ✅ Article 50 — AI Content Watermarking (where applicable)
 
-| Registry | Method | Output |
-|----------|--------|--------|
-| **npm** | Automated publish | Published to npmjs.com |
-| **Smithery** | Config generation | `smithery.yaml` for repo |
-| **Glama** | Submission template | Markdown for manual submit |
-| **MCP.so** | Submission template | Markdown for manual submit |
-| **PulseMCP** | Submission template | Markdown for manual submit |
-| **mcp-get** | Manifest generation | `mcp.json` for PR submission |
-| **OpenTools** | Submission template | Markdown for manual submit |
+Need help getting compliant? **[Book a free 15-min diagnostic →](https://cal.com/csoai/august-audit)**
 
-## Options
+## 🏢 Enterprise
 
-| Flag | Description |
-|------|-------------|
-| `--all` | Process all packages in directory |
-| `--list` | List packages without distributing |
-| `--dry-run` | Preview without publishing |
-| `--registries <names>` | Comma-separated registry list |
-| `--output <dir>` | Artifact output directory (default: `./dist-output`) |
-| `--npm-token <token>` | npm auth token (or `NPM_TOKEN` env) |
-| `--report <path>` | JSON report output path |
+Need custom development, SLA guarantees, or white-label deployment?
 
-## Environment Variables
+- **Pro:** $99/mo — Full MCP suite + EU AI Act tracking
+- **Enterprise:** $499/mo — Custom dev + SLA + Dedicated support
 
-- `NPM_TOKEN` — npm authentication token for automated publishing
+[View Pricing →](https://councilof.ai/pricing) | [Contact Sales →](mailto:sales@csoai.org)
 
-## License
+## 🤝 Part of the MEOK Ecosystem
 
-MIT
+This server is part of the **[MEOK AI Labs](https://meok.ai)** ecosystem — 300+ MCP servers for sovereign AI governance.
+
+| Domain | Purpose |
+|--------|---------|
+| [councilof.ai](https://councilof.ai) | EU AI Act compliance marketplace |
+| [safetyof.ai](https://safetyof.ai) | AI safety & monitoring |
+| [meok.ai](https://meok.ai) | Sovereign AI platform |
+| [cobolbridge.ai](https://cobolbridge.ai) | Legacy modernization |
+
+## 📜 License
+
+MIT © [CSOAI-ORG](https://github.com/CSOAI-ORG)
+
+---
+
+<p align="center">
+  <sub>Built with 💜 by <a href="https://meok.ai">MEOK AI Labs</a> · UK Companies House 16939677</sub>
+</p>
